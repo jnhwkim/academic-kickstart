@@ -22,7 +22,7 @@ weight = 5
   year = 2018
 
 [[education.courses]]
-  course = "M.Sci. in Computer Science and Engineering"
+  course = "M.Sc. in Computer Science and Engineering"
   institution = "Seoul National University"
   year = 2015
 
