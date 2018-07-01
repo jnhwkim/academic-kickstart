@@ -27,7 +27,7 @@ abstract = "Bilinear models provide rich representations compared with linear mo
 abstract_short = ""
 
 # Featured image thumbnail (optional)
-image_preview = "https://pbs.twimg.com/media/Cu7ek22VIAArdiu.jpg"
+image_preview = "mlb.jpg"
 
 # Is this a selected publication? (true/false)
 selected = true
@@ -62,7 +62,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "https://pbs.twimg.com/media/Cu7ek22VIAArdiu.jpg"
+image = "mlb.jpg"
 caption = "A schematic diagram of MLB"
 
 +++
