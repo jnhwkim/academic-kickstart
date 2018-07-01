@@ -20,10 +20,10 @@ selected = true
 projects = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://arxiv.org/abs/1805.07932"
 url_slides = ""
 url_video = ""
-url_code = ""
+url_code = "https://github.com/jnhwkim/ban-vqa"
 
 # Does the content use math formatting?
 math = true
