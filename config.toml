@@ -55,7 +55,7 @@ enableGitInfo = true
 
   # Your details.
   name = "Jin-Hwa Kim"
-  role = "Research Scientist"
+  role = "Ph.D., Research Scientist"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -100,7 +100,7 @@ enableGitInfo = true
   map_api_key = ""
   latitude = "37.56643"
   longitude = "126.98514"
-  zoom = 15
+  zoom = 17
 
   # Date and time format (refer to Go's date format: http://fuckinggodateformat.com )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
