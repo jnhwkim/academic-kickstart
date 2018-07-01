@@ -46,7 +46,7 @@ url_dataset = ""
 url_project = ""
 url_slides = ""
 url_video = ""
-url_poster = ""
+url_poster = "files/imm-nips17-poster v9.pdf"
 url_source = ""
 
 # Custom links (optional).
