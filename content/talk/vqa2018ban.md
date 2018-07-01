@@ -34,7 +34,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "ban.jpg"
+image = "http://eng.snu.ac.kr/sites/default/files/사진_2018%20컴퓨터비전패턴인식학회에서%20발표하는%20김진화%20연구원.jpg"
 caption = ""
 
 +++
