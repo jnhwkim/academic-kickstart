@@ -6,7 +6,7 @@
 baseurl = "/"
 
 # Title of your site
-title = "Academic"
+title = "Jin-Hwa Kim"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -20,18 +20,18 @@ preserveTaxonomyNames = true
 paginate = 10
 
 # Enable comments by entering your Disqus shortname
-disqusShortname = ""
+disqusShortname = "jnhwkim"
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-121644754-1"
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
-hasCJKLanguage = false  # Set `true` for Chinese/Japanese/Korean languages.
+hasCJKLanguage = true  # Set `true` for Chinese/Japanese/Korean languages.
 defaultContentLanguageInSubdir = false
 
 # Get last modified date for content from Git?
-enableGitInfo = false
+enableGitInfo = true
 
 [outputs]
   home = [ "HTML", "CSS", "RSS" ]
@@ -54,20 +54,20 @@ enableGitInfo = false
   font = "default"
 
   # Your details.
-  name = "Lena Smith"
-  role = "Professor of Artificial Intelligence"
+  name = "Jin-Hwa Kim"
+  role = "Research Scientist"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Stanford University", url = "" } ]
+  organizations = [ { name = "SK T-Brain (in transition)", url = "https://www.facebook.com/SKTBrain" } ]
 
-  gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "888 888 88 88"
-  skype = "echo123"
+  gravatar = true  # Get your avatar from Gravatar.com? (true/false)
+  avatar = ""  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  email = "jnhwkim@gmail.com"
+  address = "SK T-Tower, 65, Eulji-ro, Jung-gu, Seoul, 04539, Korea"
+  office_hours = ""
+  phone = ""
+  skype = ""
   telegram = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
@@ -96,10 +96,10 @@ enableGitInfo = false
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  map = 0
+  map = 2
   map_api_key = ""
-  latitude = "37.4275"
-  longitude = "-122.1697"
+  latitude = "37.5664498"
+  longitude = "126.9828752"
   zoom = 15
 
   # Date and time format (refer to Go's date format: http://fuckinggodateformat.com )
@@ -119,7 +119,7 @@ enableGitInfo = false
 
   # Enable global LaTeX math rendering?
   #   If false, you can enable it locally on a per page basis.
-  math = false
+  math = true
 
   # Highlight.js options
   #   highlight
@@ -149,8 +149,8 @@ enableGitInfo = false
   #   For more info on the highlighting options, see:
   #   https://sourcethemes.com/academic/post/writing-markdown-latex/#highlighting-options
   highlight = true
-  highlight_languages = []
-  # highlight_style = "github"
+  highlight_languages = ["python"]
+  highlight_style = "github"
 
   # Enable native social sharing buttons?
   sharing = true
@@ -226,22 +226,22 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:test@example.org"
+    link = "mailto:jnhwkim@gmail.com"
 
   [[params.social]]
     icon = "twitter"
     icon_pack = "fa"
-    link = "//twitter.com/GeorgeCushen"
+    link = "//twitter.com/jnhwkim"
 
   [[params.social]]
     icon = "google-scholar"
     icon_pack = "ai"
-    link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+    link = "https://scholar.google.com/citations?user=3f2wPekAAAAJ"
 
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/gcushen"
+    link = "//github.com/jnhwkim"
 
 
 # Navigation Links
@@ -267,15 +267,15 @@ enableGitInfo = false
   url = "#posts"
   weight = 3
 
-[[menu.main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 4
+#[[menu.main]]
+#  name = "Projects"
+#  url = "#projects"
+#  weight = 4
 
-[[menu.main]]
-  name = "Teaching"
-  url = "#teaching"
-  weight = 5
+#[[menu.main]]
+#  name = "Teaching"
+#  url = "#teaching"
+#  weight = 5
 
 [[menu.main]]
   name = "Contact"
