@@ -24,7 +24,7 @@ publication_short = "In *arXiv*"
 
 # Abstract and optional shortened version.
 abstract = "In this work, we propose a goal-driven collaborative task that contains vision, language, and action in a virtual environment as its core components. Specifically, we develop a collaborative `Image Drawing' game between two agents, called CoDraw. Our game is grounded in a virtual world that contains movable clip art objects. Two players, Teller and Drawer, are involved. The Teller sees an abstract scene containing multiple clip arts in a semantically meaningful configuration, while the Drawer tries to reconstruct the scene on an empty canvas using available clip arts. The two players communicate via two-way communication using natural language. We collect the CoDraw dataset of ~10K dialogs consisting of 138K messages exchanged between a Teller and a Drawer from Amazon Mechanical Turk (AMT). We analyze our dataset and present three models to model the players' behaviors, including an attention model to describe and draw multiple clip arts at each round. The attention models are quantitatively compared to the other models to show how the conventional approaches work for this new task. We also present qualitative visualizations."
-abstract_short = ""
+abstract_short = "In this work, we propose a goal-driven collaborative task that contains vision, language, and action in a virtual environment as its core components. Specifically, we develop a collaborative `Image Drawing' game between two agents, called CoDraw. We collect the CoDraw dataset of ~10K dialogs consisting of 138K messages exchanged between a Teller and a Drawer from Amazon Mechanical Turk (AMT)."
 
 # Featured image thumbnail (optional)
 image_preview = ""
