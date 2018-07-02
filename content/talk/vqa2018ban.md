@@ -21,7 +21,7 @@ projects = []
 
 # Links (optional).
 url_pdf = "https://arxiv.org/abs/1805.07932"
-url_slides = ""
+url_slides = "https://goo.gl/DNYk3B"
 url_video = ""
 url_code = "https://github.com/jnhwkim/ban-vqa"
 
