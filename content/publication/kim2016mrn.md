@@ -46,7 +46,7 @@ url_dataset = ""
 url_project = ""
 url_slides = ""
 url_video = "https://www.youtube.com/watch?v=fsQNAptltn8"
-url_poster = "https://bi.snu.ac.kr/~jhkim/posters/mrn-nips16-poster.pdf"
+url_poster = "https://goo.gl/jOAh7g"
 url_source = ""
 
 # Custom links (optional).
