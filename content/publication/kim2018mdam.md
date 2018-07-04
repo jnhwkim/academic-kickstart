@@ -2,7 +2,7 @@
 title = "Multimodal Dual Attention Memory for Video Story Question Answering"
 
 # Date first published.
-date = "2018-09-08"
+date = "2018-07-03"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Kyungmin Kim", "Seong-Ho Choi", "Jin-Hwa Kim", "Byoung-Tak Zhang"]
