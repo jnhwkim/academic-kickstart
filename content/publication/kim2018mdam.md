@@ -62,7 +62,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = ""
+image = "https://eccv2018.org/wp-content/uploads/2016/07/Titelfoto_muenchende_Thomas-Klinger-768x478.jpg"
 caption = ""
 
 +++
