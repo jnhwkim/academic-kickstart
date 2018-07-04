@@ -67,3 +67,4 @@ caption = ""
 
 +++
 
+In preparaion for [ECCV 2018](https://eccv2018.org) (8 - 14 September 2018, Munich, Germany)
