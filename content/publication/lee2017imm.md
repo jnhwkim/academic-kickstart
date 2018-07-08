@@ -2,7 +2,7 @@
 title = "Overcoming Catastrophic Forgetting by Incremental Moment Matching"
 
 # Date first published.
-date = "2017-03-24"
+date = "2017-12-04"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Sang-Woo Lee", "Jin-Hwa Kim", "Jaehyun Jun", "Jung-Woo Ha", "Byoung-Tak Zhang"]
