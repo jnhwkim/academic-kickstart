@@ -2,7 +2,7 @@
 title = "Hadamard Product for Low-rank Bilinear Pooling"
 
 # Date first published.
-date = "2017-07-24"
+date = "2017-04-24"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Jin-Hwa Kim", "Kyoung-Woon On", "Woosang Lim", "Jeonghee Kim", "Jung-Woo Ha", "Byoung-Tak Zhang"]
