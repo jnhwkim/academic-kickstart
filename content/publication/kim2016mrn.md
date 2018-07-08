@@ -2,7 +2,7 @@
 title = "Multimodal Residual Learning for Visual QA"
 
 # Date first published.
-date = "2016-06-05"
+date = "2016-12-05"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Jin-Hwa Kim", "Sang-Woo Lee", "Donghyun Kwak", "Min-Oh Heo", "Jeonghee Kim", "Jung-Woo Ha", "Byoung-Tak Zhang"]
