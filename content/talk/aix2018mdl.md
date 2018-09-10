@@ -34,7 +34,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "http://aix.sktair.com/images/visual.png"
+image = "https://github.com/jnhwkim/academic-kickstart/raw/master/static/img/aix.jpg"
 caption = ""
 
 +++
