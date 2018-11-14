@@ -41,6 +41,6 @@ _I am looking for a research intern who has great potential in machine learning.
 
 <h3>Academic Services</h3>
 <ul>
-  <li>Reviewer for NIPS 2018 and ICLR 2018</li>
+  <li>Reviewer for NIPS 2018, ICLR 2019, and ICML 2019</li>
   <li>Program Committee for Workshop on <a href="https://sites.google.com/view/sivl/">SiVL</a> at ECCV 2018</li>
 </ul>
