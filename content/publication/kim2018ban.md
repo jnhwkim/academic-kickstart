@@ -45,7 +45,7 @@ url_code = "https://github.com/jnhwkim/ban-vqa"
 url_dataset = ""
 url_project = ""
 url_slides = "https://goo.gl/DNYk3B"
-url_video = ""
+url_video = "https://www.youtube.com/watch?v=tZf6vxP5bDE"
 url_poster = "http://goo.gl/ztE4mp"
 url_source = ""
 
