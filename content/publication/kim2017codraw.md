@@ -2,7 +2,7 @@
 title = "CoDraw: Collaborative Drawing as a Testbed for Grounded Goal-driven Communication"
 
 # Date first published.
-date = "2019-07-28"
+date = "2019-05-15"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Jin-Hwa Kim†", "Nikita Kitaev†", "Xinlei Chen", "Marcus Rohrbach", "Byoung-Tak Zhang", "Yuandong Tian", "Dhruv Batra", "Devi Parikh"]
