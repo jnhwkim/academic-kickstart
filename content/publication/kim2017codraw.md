@@ -1,11 +1,11 @@
 +++
-title = "CoDraw: Visual Dialog for Collaborative Drawing"
+title = "CoDraw: Collaborative Drawing as a Testbed for Grounded Goal-driven Communication"
 
 # Date first published.
 date = "2017-12-15"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Jin-Hwa Kim", "Devi Parikh", "Dhruv Batra", "Byoung-Tak Zhang", "Yuandong Tian"]
+authors = ["Jin-Hwa Kim*", "Nikita Kitaev*", "Xinlei Chen", "Marcus Rohrbach", "Byoung-Tak Zhang", "Yuandong Tian", "Dhruv Batra", "Devi Parikh"]
 
 # Publication type.
 # Legend:
@@ -16,15 +16,14 @@ authors = ["Jin-Hwa Kim", "Devi Parikh", "Dhruv Batra", "Byoung-Tak Zhang", "Yua
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["4"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In *arXiv preprint arXiv:1712.05558*"
-publication_short = "In *arXiv*"
+publication = "In *ACL*"
+publication_short = "In *the 56th Annual Meeting of the Association for Computational Linguistics*"
 
 # Abstract and optional shortened version.
-abstract = "In this work, we propose a goal-driven collaborative task that contains vision, language, and action in a virtual environment as its core components. Specifically, we develop a collaborative `Image Drawing' game between two agents, called CoDraw. Our game is grounded in a virtual world that contains movable clip art objects. Two players, Teller and Drawer, are involved. The Teller sees an abstract scene containing multiple clip arts in a semantically meaningful configuration, while the Drawer tries to reconstruct the scene on an empty canvas using available clip arts. The two players communicate via two-way communication using natural language. We collect the CoDraw dataset of ~10K dialogs consisting of 138K messages exchanged between a Teller and a Drawer from Amazon Mechanical Turk (AMT). We analyze our dataset and present three models to model the players' behaviors, including an attention model to describe and draw multiple clip arts at each round. The attention models are quantitatively compared to the other models to show how the conventional approaches work for this new task. We also present qualitative visualizations."
-abstract_short = "In this work, we propose a goal-driven collaborative task that contains vision, language, and action in a virtual environment as its core components. Specifically, we develop a collaborative `Image Drawing' game between two agents, called CoDraw. We collect the CoDraw dataset of ~10K dialogs consisting of 138K messages exchanged between a Teller and a Drawer from Amazon Mechanical Turk (AMT)."
+abstract = "In this work, we propose a goal-driven collaborative task that combines language, perception, and action. Specifically, we develop a Collaborative image-Drawing game between two agents, called CoDraw. Our game is grounded in a virtual world that contains movable clip art objects. The game involves two players: a Teller and a Drawer. The Teller sees an abstract scene containing multiple clip art pieces in a semantically meaningful configuration, while the Drawer tries to reconstruct the scene on an empty canvas using available clip art pieces. The two players communicate with each other using natural language. We collect the CoDraw dataset of ~10K dialogs consisting of ~138K messages exchanged between human players. We define protocols and metrics to evaluate learned agents in this testbed, highlighting the need for a novel crosstalk evaluation condition which pairs agents trained independently on disjoint subsets of the training data. We present models for our task and benchmark them using both fully automated evaluation and by having them play the game live with humans."
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -62,7 +61,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "codraw_teaser_v4.gif"
+image = ""
 caption = ""
 
 +++
