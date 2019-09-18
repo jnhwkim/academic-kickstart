@@ -43,5 +43,6 @@ _I am looking for a research intern who has great potential in machine learning.
 <ul>
   <li>Reviewer for IEEE Transactions on Neural Networks and Learning Systems</li>
   <li>Reviewer for NeurIPS 2018-9, ICLR 2019, and ICML 2019</li>
+  <li>Program Committee for Workshop on <a href="https://videoturingtest.github.io">Video Turing Test</a> at ICCV 2019</li>
   <li>Program Committee for Workshop on <a href="https://sites.google.com/view/sivl/">SiVL</a> at ECCV 2018</li>
 </ul>
