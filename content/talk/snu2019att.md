@@ -21,7 +21,7 @@ projects = []
 
 # Links (optional).
 url_pdf = ""
-url_slides = ""
+url_slides = "https://drive.google.com/open?id=1rZ696MRELqWKSGsn2n-SZSy1259bloR8"
 url_video = ""
 url_code = ""
 
