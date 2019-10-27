@@ -7,7 +7,7 @@ time_end = 2019-10-28T09:30:00
 abstract = "Multimodal deep learning provides a way to interleave computer vision and natural language processing. In the heart of this, how to learn joint representations of vision and language is critical to design an efficient model. I will review the recent works focusing on multimodal pooling methods in aspects of tensor operations, linear to bilinear models, and various attentional networks. Through this, I hope this talk helps to understand a facet of how our deep learning community responses toward this challenging mission and discuss the limitation of the current multimodal learning approaches for the challenging tasks. "
 abstract_short = ""
 event = "Invited Talk at the 3rd Workshop on Closing the Loop Between Vision and Language @ICCV2019"
-event_url = ""
+event_url = "https://sites.google.com/site/iccv19clvllsmdc/program"
 location = "COEX Convention Center 317A"
 
 # Is this a selected talk? (true/false)
