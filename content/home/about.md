@@ -10,9 +10,10 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Machine Learning",
-    "Multimodal Learning"
+    "Anomaly Detection",
+    "Meta Learning",
+    "Multimodal Learning",
+    "Machine Learning"
   ]
 
 # List your qualifications (such as academic degrees).
