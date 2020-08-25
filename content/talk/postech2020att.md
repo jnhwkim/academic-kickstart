@@ -34,7 +34,7 @@ highlight = false
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "https://www.dropbox.com/s/pdecexs9eox2v0g/postech2020att.jpg"
+image = "postech2020att.jpg"
 caption = ""
 
 +++
