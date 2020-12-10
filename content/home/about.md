@@ -43,7 +43,7 @@ He is Research Scientist at SK Telecom since August 2018. He has been studying m
 
 <h3>Academic Services</h3>
 <ul>
-  <li>Reviewer for NeurIPS 2018-2020, ICLR 2019,2021, and ICML 2019-2020</li>
+  <li>Reviewer for NeurIPS 2018-2020, ICLR 2019,2021, and ICML 2019-2021</li>
   <li>Reviewer for Neural Networks (2020)</li>
   <li>Reviewer for IEEE Transactions on Neural Networks and Learning Systems (2019)</li>
   <li>Program Committee for the 2nd workshop on <a href="https://dramaqa.snu.ac.kr/Workshop/2020">Video Turing Test</a> at ECCV 2020</li>
