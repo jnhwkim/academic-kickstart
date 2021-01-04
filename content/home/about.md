@@ -43,6 +43,7 @@ He is Research Scientist at SK Telecom since August 2018. He has been studying m
 
 <h3>Academic Services</h3>
 <ul>
+  <li>Topic Editor for the <a href="https://www.frontiersin.org/research-topics/18532/identifying-analyzing-and-overcoming-challenges-in-vision-and-language-research">Identifying, Analyzing, and Overcoming Challenges in Vision and Language Research</a> in the Frontiers Research Topics</li>
   <li>Reviewer for NeurIPS 2018-2020, ICLR 2019,2021, and ICML 2019-2021</li>
   <li>Reviewer for Neural Networks (2020)</li>
   <li>Reviewer for IEEE Transactions on Neural Networks and Learning Systems (2019)</li>
