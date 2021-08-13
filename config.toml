@@ -59,12 +59,12 @@ enableGitInfo = true
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "SK Telecom, Seoul, Korea", url = "https://skt.ai" } ]
+  organizations = [ { name = "NAVER AI Lab, South Korea", url = "https://www.navercorp.com" } ]
 
   gravatar = true  # Get your avatar from Gravatar.com? (true/false)
   avatar = ""  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "jnhwkim@gmail.com"
-  address = "SK T-Tower, 65, Eulji-ro, Jung-gu, Seoul, 04539, Korea"
+  address = "NAVER Green Factory, 6 Buljeong-ro, Bundang-gu, Seongnam-si, Gyeonggi Province, South Korea"
   office_hours = ""
   phone = ""
   skype = ""
@@ -98,8 +98,8 @@ enableGitInfo = true
   #   3: OpenStreetMap (Mapbox)
   map = 2
   map_api_key = ""
-  latitude = "37.56643"
-  longitude = "126.98514"
+  latitude = "37.35943"
+  longitude = "127.10505"
   zoom = 17
 
   # Date and time format (refer to Go's date format: http://fuckinggodateformat.com )
