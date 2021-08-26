@@ -2,7 +2,7 @@
 title = "Reasoning Visual Dialog with Sparse Graph Learning and Knowledge Transfer"
 
 # Date first published.
-date = "2021-11-07"
+date = "2021-08-25"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Gi-Cheon Kang", "Junseok Park", "Hwaran Lee", "Byoung-Tak Zhang", "Jin-Hwa Kim"]
