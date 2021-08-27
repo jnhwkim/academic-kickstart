@@ -19,7 +19,7 @@ authors = ["Gi-Cheon Kang", "Junseok Park", "Hwaran Lee", "Byoung-Tak Zhang", "J
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Findings of Empirical Methods in Natural Language Processing"
+publication = "In *Findings of Empirical Methods in Natural Language Processing*"
 publication_short = "In *Findings of EMNLP*"
 
 # Abstract and optional shortened version.
