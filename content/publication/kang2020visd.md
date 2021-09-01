@@ -41,7 +41,7 @@ projects = []
 # Links (optional).
 url_pdf = ""
 url_preprint = "https://arxiv.org/abs/2004.06698"
-url_code = ""
+url_code = "https://github.com/gicheonkang/sglkt-visdial"
 url_dataset = ""
 url_project = ""
 url_slides = ""
