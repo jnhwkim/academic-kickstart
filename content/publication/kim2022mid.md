@@ -40,7 +40,7 @@ projects = []
 
 # Links (optional).
 url_pdf = "https://drive.google.com/file/d/13qDb9HAZkJSjWM6gckQ-KFomw1M8V45u/view?usp=sharing"
-<!-- url_preprint = "http://arxiv.org/abs/2205.13445" -->
+url_preprint = "http://arxiv.org/abs/2205.13445"
 url_code = "https://github.com/naver-ai/mid.metric"
 url_dataset = "https://github.com/naver-ai/mid.metric"
 url_project = ""
