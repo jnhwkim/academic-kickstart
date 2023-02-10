@@ -10,10 +10,9 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Visual Question Answering",
+    "NeRF",
     "Multimodal Learning",
-    "Anomaly Detection",
-    "Meta Learning",
+    "Generative Model",
     "Deep Learning"
   ]
 
@@ -37,7 +36,7 @@ weight = 5
 
 # Biography
 
-Jin-Hwa Kim has been Technical Leader and Research Scientist at NAVER AI Lab since August 2021 and Guest Assistant Professor at Artificial Intelligence Institute of Seoul National University (SNU AIIS) since August 2022. He has been studying multimodal deep learning (e.g., [visual question answering](http://visualqa.org)), multimodal generation, ethical AI, and other related topics. In 2018, he received Ph.D. from Seoul National University under the supervision of Professor [Byoung-Tak Zhang](https://bi.snu.ac.kr/~btzhang/) for the work on "Multimodal Deep Learning for Visually-grounded Reasoning." In September 2017, he received [2017 Google Ph.D. Fellowship](https://ai.googleblog.com/2017/09/highlights-from-annual-google-phd.html) in Machine Learning, Ph.D. Completion Scholarship by Seoul National University, and the VQA Challenge 2018 runners-up at the [CVPR 2018 VQA Challenge and Visual Dialog Workshop](https://visualqa.org/workshop_2018.html). He was Research Intern at [Facebook AI Research](https://research.fb.com/category/facebook-ai-research/) (Menlo Park, CA) mentored by [Yuandong Tian](http://yuandong-tian.com), [Devi Parikh](https://www.cc.gatech.edu/~parikh/), and [Dhruv Batra](https://www.cc.gatech.edu/~dbatra/), from January to May in 2017. He had worked for SK Telecom (August 2018 to July 2021) and SK Communications (January 2011 to October 2012).
+Jin-Hwa Kim has been Technical Leader and Research Scientist at NAVER AI Lab since August 2021 and Guest Assistant Professor at Artificial Intelligence Institute of Seoul National University (SNU AIIS) since August 2022. He has been studying multimodal deep learning, multimodal generation (including NeRFs), ethical AI, and other related topics. In 2018, he received Ph.D. from Seoul National University under the supervision of Professor [Byoung-Tak Zhang](https://bi.snu.ac.kr/~btzhang/) for the work on "Multimodal Deep Learning for Visually-grounded Reasoning." In September 2017, he received [2017 Google Ph.D. Fellowship](https://ai.googleblog.com/2017/09/highlights-from-annual-google-phd.html) in Machine Learning, Ph.D. Completion Scholarship by Seoul National University, and the VQA Challenge 2018 runners-up at the [CVPR 2018 VQA Challenge and Visual Dialog Workshop](https://visualqa.org/workshop_2018.html). He was Research Intern at [Facebook AI Research](https://research.fb.com/category/facebook-ai-research/) (Menlo Park, CA) mentored by [Yuandong Tian](http://yuandong-tian.com), [Devi Parikh](https://www.cc.gatech.edu/~parikh/), and [Dhruv Batra](https://www.cc.gatech.edu/~dbatra/), from January to May in 2017. He had worked for SK Telecom (August 2018 to July 2021) and SK Communications (January 2011 to October 2012).
 <!-- In 2015, he received Master of Science in Engineering degree from Seoul National University, and, in 2011, Bachelor of Engineering degree from Kwangwoon University (summa cum laude). -->
 
 <h3>Academic Services</h3>
