@@ -49,3 +49,7 @@ Jin-Hwa Kim is Leader of Neural 3D TF and Research Scientist at NAVER AI Lab sin
   <li>Program Committee for the 1st Workshop on <a href="https://videoturingtest.github.io">Video Turing Test</a> at ICCV 2019</li>
   <li>Program Committee for Workshop on <a href="https://sites.google.com/view/sivl/">SiVL</a> at ECCV 2018</li>
 </ul>
+
+<p>
+  You can find my recent publications on my <a href="https://scholar.google.com/citations?&user=3f2wPekAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a>. I must apologize for not keeping it up-to-date due to other commitments. 🙏
+</p>
