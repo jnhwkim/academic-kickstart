@@ -63,7 +63,7 @@ enableGitInfo = false
 
   gravatar = true  # Get your avatar from Gravatar.com? (true/false)
   avatar = ""  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "jnhwkim@gmail.com"
+  email = "j1nhwa.kim@navercorp.com"
   address = "NAVER Green Factory, 6 Buljeong-ro, Bundang-gu, Seongnam-si, Gyeonggi Province, South Korea"
   office_hours = ""
   phone = ""
