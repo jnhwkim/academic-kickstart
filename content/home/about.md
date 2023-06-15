@@ -41,7 +41,7 @@ Jin-Hwa Kim is Leader of Neural 3D TF and Research Scientist at NAVER AI Lab sin
 <h3>Notice</h3>
 <ul>
   <li>
-    📣 We're hiring research or engineering interns for NeRF projects for three (can be extended to six) months. Please contact me via email with a cover letter and CV.
+    📣 We're hiring research and engineering interns for NeRF projects for three (can be extended to six) months. Please contact me via email with a cover letter and CV.
   </li>
   <li>
     You can find my recent publications on my <a href="https://scholar.google.com/citations?&user=3f2wPekAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a>. I must apologize for not keeping it up-to-date due to other commitments. 🙏
