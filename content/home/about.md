@@ -50,10 +50,11 @@ Jin-Hwa Kim is Leader of Neural 3D TF and Research Scientist at NAVER AI Lab sin
 
 <h3>Academic Services</h3>
 <ul>
-  <li>Topic Editor for the <a href="https://www.frontiersin.org/research-topics/18532/identifying-analyzing-and-overcoming-challenges-in-vision-and-language-research">Identifying, Analyzing, and Overcoming Challenges in Vision and Language Research</a> in the Frontiers Research Topics</li>
+  <li>Co-organizer for ICML 2023 Social - ML in Korea 🤖🇰🇷🌺</li>
   <li>Reviewer for NeurIPS 2018-2023, ICLR 2019, 2021-2023, ICML 2019-2021, and COLING 2022</li>
   <li>Reviewer for Neural Networks (2020)</li>
   <li>Reviewer for IEEE Transactions on Neural Networks and Learning Systems (2019)</li>
+  <li>Topic Editor for the <a href="https://www.frontiersin.org/research-topics/18532/identifying-analyzing-and-overcoming-challenges-in-vision-and-language-research">Identifying, Analyzing, and Overcoming Challenges in Vision and Language Research</a> in the Frontiers Research Topics</li>
   <li>Program Committee for the 2nd workshop on <a href="https://dramaqa.snu.ac.kr/Workshop/2020">Video Turing Test</a> at ECCV 2020</li>
   <li>Program Committee for the 1st Workshop on <a href="https://videoturingtest.github.io">Video Turing Test</a> at ICCV 2019</li>
   <li>Program Committee for Workshop on <a href="https://sites.google.com/view/sivl/">SiVL</a> at ECCV 2018</li>
