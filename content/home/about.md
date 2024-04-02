@@ -41,7 +41,7 @@ Jin-Hwa Kim has been the Leader of Generation Research and Neural 3D TF at NAVER
 <h3>Notice</h3>
 <ul>
   <li>
-    📣 <a href="https://naver-career.gitbook.io/en/positions/ai-ml">We're hiring</a> research and engineering interns for Neural 3D projects for three (can be extended to six) months.
+    📣 <a href="https://naver-career.gitbook.io/en/positions/ai-ml/generation-research">We're hiring</a> research and engineering interns and full-time research scientist.
   </li>
   <li>
     You can find my recent publications on my <a href="https://scholar.google.com/citations?&user=3f2wPekAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a>. I must apologize for not keeping it up-to-date due to other commitments. 🙏
@@ -50,6 +50,7 @@ Jin-Hwa Kim has been the Leader of Generation Research and Neural 3D TF at NAVER
 
 <h3>Academic Services</h3>
 <ul>
+  <li>Area Chair for NeurIPS 2024</li>
   <li>Co-organizer for ICML 2023 Social - ML in Korea 🤖🇰🇷🌺</li>
   <li>Reviewer for NeurIPS 2018-2023, ICLR 2019, 2021-2023, ICML 2019-2021, 2024, and COLING 2022</li>
   <li>Reviewer for Neural Networks (2020)</li>
