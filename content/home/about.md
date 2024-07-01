@@ -50,7 +50,7 @@ Jin-Hwa Kim has been the Leader of Generation Research and Neural 3D TF at NAVER
 
 <h3>Academic Services</h3>
 <ul>
-  <li>Area Chair for NeurIPS 2024</li>
+  <li>Area Chair for NeurIPS 2024 and ACL ARR 2024 June</li>
   <li>Co-organizer for ICML 2023 Social - ML in Korea 🤖🇰🇷🌺</li>
   <li>Reviewer for NeurIPS 2018-2023, ICLR 2019, 2021-2023, ICML 2019-2021, 2024, and COLING 2022</li>
   <li>Reviewer for Neural Networks (2020)</li>
