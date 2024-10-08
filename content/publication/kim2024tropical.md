@@ -2,7 +2,7 @@
 title = "Polyhedral Complex Derivation from Piecewise Trilinear Networks"
 
 # Date first published.
-date = "2024-12-09"
+date = "2024-09-26"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Jin-Hwa Kim"]
