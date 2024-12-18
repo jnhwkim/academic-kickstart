@@ -49,8 +49,8 @@ Jin-Hwa Kim has been the Leader of Generation Research and Neural 3D TF at NAVER
 
 <h3>Teaching</h3>
 <ul>
-  <li>Co-lectured 4190.773: Multimodal Deep Learning Theories and Applications at SNU (Fall 2024) with [Jiyoung Lee](https://lee-jiyoung.github.io) and [Sangdoo Yun](https://sangdooyun.github.io).</li>
-  <li>Co-lectured 4190.773: Multimodal Deep Learning Theories and Applications at SNU (Fall 2023) with [Jiyoung Lee](https://lee-jiyoung.github.io).</li>
+  <li>Co-lectured 4190.773: Multimodal Deep Learning Theories and Applications at SNU (Fall 2024) with <a href="https://lee-jiyoung.github.io">Jiyoung Lee</a> and <a href="https://sangdooyun.github.io">Sangdoo Yun</a>.</li>
+  <li>Co-lectured 4190.773: Multimodal Deep Learning Theories and Applications at SNU (Fall 2023) with <a href="https://lee-jiyoung.github.io">Jiyoung Lee</a>.</li>
 </ul>
 
 <h3>Academic Services</h3>
