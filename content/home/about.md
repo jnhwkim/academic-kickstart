@@ -35,7 +35,7 @@ weight = 5
 
 # Biography
 
-Jin-Hwa Kim has been the Leader of Generation Research and Neural 3D TF at NAVER AI Lab, working since August 2021, and Guest Assistant Professor at the Artificial Intelligence Institute of Seoul National University (SNU AIIS) since August 2022. He has studied multimodal deep learning, multimodal generation, ethical and safe AI, and other related topics. In 2018, he received a Ph.D. from Seoul National University under the supervision of Professor [Byoung-Tak Zhang](https://bi.snu.ac.kr/~btzhang/) for the work on "Multimodal Deep Learning for Visually-grounded Reasoning." In September 2017, he received [2017 Google Ph.D. Fellowship](https://ai.googleblog.com/2017/09/highlights-from-annual-google-phd.html) in Machine Learning, Ph.D. Completion Scholarship by Seoul National University, and the VQA Challenge 2018 runners-up at the [CVPR 2018 VQA Challenge and Visual Dialog Workshop](https://visualqa.org/workshop_2018.html). He was Research Intern at [Facebook AI Research](https://research.fb.com/category/facebook-ai-research/) (Menlo Park, CA) mentored by [Yuandong Tian](http://yuandong-tian.com), [Devi Parikh](https://www.cc.gatech.edu/~parikh/), and [Dhruv Batra](https://www.cc.gatech.edu/~dbatra/), from January to May in 2017. He worked for SK Telecom (August 2018 to July 2021) and SK Communications (January 2011 to October 2012).
+Jin-Hwa Kim has been the Leader of Generation Research at NAVER AI Lab, working since August 2021, and Guest Assistant Professor at the Artificial Intelligence Institute of Seoul National University (SNU AIIS) since August 2022. He has studied multimodal deep learning, multimodal generation, ethical and safe AI, and other related topics. In 2018, he received a Ph.D. from Seoul National University under the supervision of Professor [Byoung-Tak Zhang](https://bi.snu.ac.kr/~btzhang/) for the work on "Multimodal Deep Learning for Visually-grounded Reasoning." In September 2017, he received [2017 Google Ph.D. Fellowship](https://ai.googleblog.com/2017/09/highlights-from-annual-google-phd.html) in Machine Learning, Ph.D. Completion Scholarship by Seoul National University, and the VQA Challenge 2018 runners-up at the [CVPR 2018 VQA Challenge and Visual Dialog Workshop](https://visualqa.org/workshop_2018.html). He was Research Intern at [Facebook AI Research](https://research.fb.com/category/facebook-ai-research/) (Menlo Park, CA) mentored by [Yuandong Tian](http://yuandong-tian.com), [Devi Parikh](https://www.cc.gatech.edu/~parikh/), and [Dhruv Batra](https://www.cc.gatech.edu/~dbatra/), from January to May in 2017. He worked for SK Telecom (August 2018 to July 2021) and SK Communications (January 2011 to October 2012).
 <!-- In 2015, he received a Master of Science in Engineering degree from Seoul National University and, in 2011, a Bachelor of Engineering degree from Kwangwoon University (summa cum laude). -->
 <h3>Notice</h3>
 <ul>
@@ -49,13 +49,14 @@ Jin-Hwa Kim has been the Leader of Generation Research and Neural 3D TF at NAVER
 
 <h3>Teaching</h3>
 <ul>
+  <li>Co-lectured 4190.773: Multimodal Deep Learning Theories and Applications at SNU (Fall 2025) with <a href="https://sangdooyun.github.io">Sangdoo Yun</a>.</li>
   <li>Co-lectured 4190.773: Multimodal Deep Learning Theories and Applications at SNU (Fall 2024) with <a href="https://lee-jiyoung.github.io">Jiyoung Lee</a> and <a href="https://sangdooyun.github.io">Sangdoo Yun</a>.</li>
   <li>Co-lectured 4190.773: Multimodal Deep Learning Theories and Applications at SNU (Fall 2023) with <a href="https://lee-jiyoung.github.io">Jiyoung Lee</a>.</li>
 </ul>
 
 <h3>Academic Services</h3>
 <ul>
-  <li>Area Chair for ICML 2025, NeurIPS 2024, and ACL ARR 2024 June</li>
+  <li>Area Chair for ICML 2025, NeurIPS 2024-2025, and ACL ARR 2024 June</li>
   <li>Co-organizer for ICML 2023 Social - ML in Korea 🤖🇰🇷🌺</li>
   <li>Reviewer for NeurIPS 2018-2023, ICLR 2019, 2021-2023, ICML 2019-2021, 2024, and COLING 2022</li>
   <li>Reviewer for Neural Networks (2020)</li>
