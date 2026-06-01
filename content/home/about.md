@@ -59,7 +59,7 @@ Jin-Hwa Kim has been the Leader of Generation Research at NAVER AI Lab, working 
 <h3>Academic Services</h3>
 <ul>
   <li>Area Chair for ICML 2025-2026, NeurIPS 2024-2026, and ACL ARR 2024 June</li>
-  <li>Organizer for ICML 2026 Expo Talks and Panels - [Seoul World Model](https://seoul-world-model.github.io) 🌏🇰🇷</li>
+  <li>Organizer for ICML 2026 Expo Talks and Panels - <a href="https://seoul-world-model.github.io">Seoul World Model</a> 🌏🇰🇷</li>
   <li>Reviewer for NeurIPS 2018-2023, ICLR 2019, 2021-2023, ICML 2019-2021, 2024, and COLING 2022</li>
   <li>Reviewer for Neural Networks (2020)</li>
   <li>Reviewer for IEEE Transactions on Neural Networks and Learning Systems (2019)</li>
