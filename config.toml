@@ -62,7 +62,7 @@ enableGitInfo = false
   organizations = [ { name = "NAVER AI Lab, South Korea", url = "https://www.navercorp.com" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "/img/kim2023square_small.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "/kim2023square_small.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "j1nhwa.<lastname>@navercorp.com"
   address = "NAVER Green Factory, 6 Buljeong-ro, Bundang-gu, Seongnam-si, Gyeonggi Province, South Korea"
   office_hours = ""
