@@ -61,8 +61,8 @@ enableGitInfo = false
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
   organizations = [ { name = "NAVER AI Lab, South Korea", url = "https://www.navercorp.com" } ]
 
-  gravatar = true  # Get your avatar from Gravatar.com? (true/false)
-  avatar = ""  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  gravatar = false  # Get your avatar from Gravatar.com? (true/false)
+  avatar = "static/img/kim2023square_small.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "j1nhwa.<lastname>@navercorp.com"
   address = "NAVER Green Factory, 6 Buljeong-ro, Bundang-gu, Seongnam-si, Gyeonggi Province, South Korea"
   office_hours = ""
