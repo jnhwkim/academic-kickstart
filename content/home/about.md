@@ -42,7 +42,7 @@ Jin-Hwa Kim has been the Leader of Generation Research at NAVER AI Lab, working 
 <h3>Notice</h3>
 <ul>
   <li>
-    📣 <a href="https://naver-career.gitbook.io/en/positions/ai-ml/generation-research">We're hiring</a> research and engineering interns and full-time research scientist.
+    📣 <a href="https://naver-career.gitbook.io/en/positions/ai-ml/generation-research">We're hiring</a> research interns.
   </li>
   <li>
     You can find my recent publications on my <a href="https://scholar.google.com/citations?&user=3f2wPekAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a> or <a href="https://drive.google.com/file/d/1CH4n2aZgFulAj-AJeGaflVx6B6wySx9V/view?usp=sharing">CV</a>. I must apologize for not keeping it up-to-date due to other commitments. 🙏
